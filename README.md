@@ -1,3 +1,4 @@
 # Agenda de citas · Sutil by Clara
 
-App web móvil de un solo archivo (index.html). Sin build: en Cloudflare Pages deja vacíos el comando y la carpeta de salida.
+App web móvil instalable (PWA). Los archivos están en `public/`.
+Cloudflare: rama `citas`, sin comando de build; el despliegue usa `wrangler.jsonc`.
